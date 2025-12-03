@@ -150,13 +150,11 @@ Este script:
 
 - corrige codificaciones
 
-- genera catálogos
-  
-- crea los archivoscorrespondientes en /csvs
+- genera catálogos en /csvs
 
 - carga los datos a MySQL
 
-- produce Defunciones_Completo.csv
+- produce Defunciones_Completo.csv 
 
 4.- Ejecutar el dashboard 
 
