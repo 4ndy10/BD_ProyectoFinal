@@ -1,0 +1,15 @@
+pandas
+requests
+sqlalchemy
+mysql-connector-python
+selenium
+webdriver-manager
+xlrd
+openpyxl
+geopandas
+folium
+streamlit-folium
+plotly
+streamlit
+plotly.express
+
