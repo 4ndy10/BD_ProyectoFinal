@@ -12,4 +12,4 @@
 - **Al seleccionar un municipio**, la información puede tardar en cargar debido al procesamiento de datos.
 
 ## 4. Lectura del archivo README
-- **Revisar el archivo** `README` dentro de la carpeta `portafolio_proyecto` para instrucciones más detalladas sobre el proyecto.
+- **Revisar el archivo** `README` dentro de la carpeta `portafolio_proyecto` para instrucciones más detalladas sobre el proyecto
