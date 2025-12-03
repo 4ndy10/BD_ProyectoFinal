@@ -1,5 +1,3 @@
-Profe. Unas cositas extras para poder correr bien todo el proyecto :
-
 
 •Descargar y extraer toda la carpeta portafolio_proyecto completa en su pycharm, para evitar que las rutas se muevan. 
 
