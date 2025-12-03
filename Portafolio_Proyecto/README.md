@@ -151,6 +151,8 @@ Este script:
 - corrige codificaciones
 
 - genera catálogos
+- 
+- crea los archivoscorrespondientes en /csvs
 
 - carga los datos a MySQL
 
